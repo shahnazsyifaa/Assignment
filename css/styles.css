@@ -1,0 +1,167 @@
+#body{
+    background-color: black;
+}
+.container{
+    background-color: #E6E6FA;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.nav-text{
+    padding-top: 50px;
+}
+
+.sub-text{
+    padding-top: 10px;
+}
+
+.btn-luas{
+    margin-top: 20px;
+    margin-left: 135px;
+    border-radius: 30px;
+
+    background-color: #E6E6FA;
+    border: solid #4682B4;
+    color: #4682B4;
+    padding: 10px 15px 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn-luas:hover{
+    background-color: #4682B4;
+    color: white;
+}
+
+.btn-keliling{
+    margin-top: 20px;
+    margin-left: 15px;
+    border-radius: 30px;
+
+    background-color: #E6E6FA;
+    border: solid #4682B4;
+    color: #4682B4;
+    padding: 10px 15px 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn-keliling:hover{
+    background-color: #4682B4;
+    color: white;
+  }
+
+.container-luas{
+    /* background-color: #5F9EA0; */
+    padding-bottom: 50px;
+}
+
+.img-katik {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 25px;
+    padding-top: 25px;
+}
+
+.hitung-text{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    /* margin-left: 480px; */
+    margin-top: 25px;
+}
+
+.tinggi-text{
+    margin-top: 10px;
+}
+.input-alas{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    padding: 5px;
+    border: solid #4682B4;
+}
+
+.input-tinggi{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    padding: 5px;
+    border: solid #4682B4;
+}
+
+.btn-reset{
+    margin-top: 20px;
+    margin-left: 460px;
+    border-radius: 15px;
+
+    background-color: #FFA500;
+    opacity: 0.8;
+    border:color-mix(in hsl shorter hue, color percentage, color percentage);
+    color: black;
+    padding: 5px 15px 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn-reset:hover{
+    opacity: 1
+}
+
+.hasil{
+    padding-top: 10px;
+}
+
+.btn-hitung-luas{
+    margin-left: 10px;
+    border-radius: 15px;
+
+    background-color: #4682B4;
+    opacity: 0.8;
+    border:color-mix(in hsl shorter hue, color percentage, color percentage);
+    color: black;
+    padding: 5px 15px 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn-hitung-luas:hover{
+    opacity: 1;
+}
+
+.container-keliling{
+    /* background-color: #5F9EA0; */
+    padding-bottom: 50px;
+}
+
+.btn-hitung-keliling{
+    margin-left: 10px;
+    border-radius: 15px;
+
+    background-color: #4682B4;
+    border:color-mix(in hsl shorter hue, color percentage, color percentage);
+    color: black;
+    padding: 5px 15px 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn-hitung-keliling:hover{
+    opacity: 0.6;
+}
